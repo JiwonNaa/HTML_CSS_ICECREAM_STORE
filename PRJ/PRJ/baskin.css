@@ -1,0 +1,64 @@
+@font-face {
+    font-family:'WAGURI';
+  src: url('../resources/font/WAGURI.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family:'강원교육모두';
+  src: url('../resources/font/강원교육모두.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family:'강원교육현옥샘';
+  src: url('../resources/font/강원교육현옥샘.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family:'강원교육새음';
+  src: url('../resources/font/강원교육새음.ttf') format('truetype');
+  }
+  
+  @font-face {
+    font-family:'SEOLEIM';
+  src: url('../resources/font/SEOLEIM.ttf') format('truetype');
+  }
+  
+  *{
+    background-color: rgb(228, 255, 252);
+  }
+  
+  #title {
+    text-align: center;
+  }
+  
+  .a{
+    color: rgb(255, 101, 171);
+    font-weight: lighter;
+    font-size: 330%;
+    font-family: 'WAGURI';
+    border: none;
+  }
+  
+  .b{
+    background-color: rgba(255, 192, 218, 0.776);
+    color: rgb(77, 16, 16);
+    font-weight: bold;
+    font-size: 100%;
+    font-family: 'SEOLEIM';
+   
+  }
+
+  .c{
+    color: rgb(255, 101, 171);
+    font-weight: lighter;
+    font-size: 100%;
+    font-family: 'WAGURI';
+  }
+  
+  #button{
+    border: none;
+  }
+
+  #ice_img:hover{
+    background-color: rgba(255, 61, 148, 0.416);
+  }
