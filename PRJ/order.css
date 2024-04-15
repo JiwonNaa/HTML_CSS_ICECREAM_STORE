@@ -3,30 +3,17 @@
 src: url('../resources/font/WAGURI.ttf') format('truetype');
 }
 
-@font-face {
-  font-family:'강원교육모두';
-src: url('../resources/font/강원교육모두.ttf') format('truetype');
-}
+
 
 @font-face {
-  font-family:'강원교육현옥샘';
-src: url('../resources/font/강원교육현옥샘.ttf') format('truetype');
-}
-
-@font-face {
-  font-family:'강원교육새음';
-src: url('../resources/font/강원교육새음.ttf') format('truetype');
-}
-
-@font-face {
-  font-family:'SEOLEIM';
-src: url('../resources/font/SEOLEIM.ttf') format('truetype');
+  font-family:'감탄로드바탕체';
+src: url('../resources/font/감탄로드바탕체.ttf') format('truetype');
 }
 
 
 *{
   background-color: rgb(228, 255, 252);
-  font-family: '강원교육모두';
+  font-family: '감탄로드바탕체';
 }
 
 .title{
@@ -46,3 +33,8 @@ src: url('../resources/font/SEOLEIM.ttf') format('truetype');
   font-size: 120%;
   font-family: 'WAGURI';
 }
+
+#memberAll{
+  display: flex;
+}
+

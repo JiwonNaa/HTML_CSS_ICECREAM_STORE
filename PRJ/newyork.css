@@ -3,25 +3,12 @@
 src: url('../resources/font/WAGURI.ttf') format('truetype');
 }
 
-@font-face {
-  font-family:'강원교육모두';
-src: url('../resources/font/강원교육모두.ttf') format('truetype');
-}
 
 @font-face {
-  font-family:'강원교육현옥샘';
-src: url('../resources/font/강원교육현옥샘.ttf') format('truetype');
+  font-family:'감탄로드바탕체';
+src: url('../resources/font/감탄로드바탕체.ttf') format('truetype');
 }
 
-@font-face {
-  font-family:'강원교육새음';
-src: url('../resources/font/강원교육새음.ttf') format('truetype');
-}
-
-@font-face {
-  font-family:'SEOLEIM';
-src: url('../resources/font/SEOLEIM.ttf') format('truetype');
-}
 
 
 *{
@@ -37,27 +24,42 @@ src: url('../resources/font/SEOLEIM.ttf') format('truetype');
 }
 
 #introduce{
-  font-family:'강원교육현옥샘';
-  font-size: 200%;
+  font-family:'감탄로드바탕체';
+  font-size: 100%;
 }
 
 .a{
-  font-family: '강원교육모두';
+  font-family: '감탄로드바탕체';
   font-size: 80%;
 }
 
 #b{
-  font-family: '강원교육모두';
+  font-family: '감탄로드바탕체';
   color: rgb(255, 101, 171);
   font-weight: bold;
   font-size: 100%;
 }
 
-#order{
+#btn-order{
   background-color: rgba(255, 101, 170, 0.737);
   color: rgb(192, 255, 234);
+  border-radius: 5px;
   border: none;
   font-size: 150%;
+  font-family: '감탄로드바탕체';
+}
+
+
+#btn-order:hover {
+  background-color: rgba(255, 0, 115, 0.737);
+  color: rgb(150, 255, 220);
+  border-radius: 5px;
+  border-color: rgb(0, 0, 0);
+  font-family: '감탄로드바탕체';
+}
+
+#btn-order:active {
+  top: 2px;
 }
 
 h2{
