@@ -59,3 +59,10 @@ src: url('../resources/font/SEOLEIM.ttf') format('truetype');
   border: none;
   font-size: 150%;
 }
+
+h2{
+  font-family: 'WAGURI';
+  font-weight: lighter;
+  font-size: 150%;
+  color: rgb(34, 5, 5);
+}
