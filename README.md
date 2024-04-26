@@ -20,7 +20,6 @@ HTML_CSS_ICECREAM_STORE
 
 <p data-ke-size="size16">&nbsp;</p>
 <h2 style="display: inline-block; padding: 0.5em 1em 0.5em 0.5em; margin: 0.5em 0em; color: #4891cf; border-left: 10px solid #4891cf; background-color: #f2f2f2; border-radius: 0px 20px 20px 0px;" data-ke-size="size26"><b>상세 페이지</b></h2>
-<p style="color: #333333; text-align: start;" data-ke-size="size16">&nbsp;</p>
 <p style="color: #333333; text-align: start;" data-ke-size="size16">main과 마찬가지로 테이블을 이용하여 구성함.</p>
 <p style="color: #333333; text-align: start;" data-ke-size="size16">주문버튼에 :hover 효과를 줌.</p>
 <p style="color: #333333; text-align: start;" data-ke-size="size16">주문버튼 누르면 주문페이지로 이동</p>
@@ -29,8 +28,6 @@ HTML_CSS_ICECREAM_STORE
 
 <p data-ke-size="size16">&nbsp;</p>
 <h2 style="display: inline-block; padding: 0.5em 1em 0.5em 0.5em; margin: 0.5em 0em; color: #4891cf; border-left: 10px solid #4891cf; background-color: #f2f2f2; border-radius: 0px 20px 20px 0px;" data-ke-size="size26"><b>주문 페이지</b></h2>
-<p style="color: #333333; text-align: start;" data-ke-size="size16">&nbsp;</p>
-<p style="color: #333333; text-align: start;" data-ke-size="size16">&nbsp;</p>
 <p style="color: #333333; text-align: start;" data-ke-size="size16">다양한 input 태그 유형 사용</p>
 <p style="color: #333333; text-align: start;" data-ke-size="size16">submit 이용해 주문(제출)</p>
 <img src="./BR3.png"> </img>
