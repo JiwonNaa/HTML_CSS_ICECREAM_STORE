@@ -2,7 +2,7 @@
 HTML_CSS_ICECREAM_STORE
 <br>
 <h2><b> 🎥시연영상 </b></h2>
-https://play-tv.kakao.com/embed/player/cliplink/446027805?service=daum_tistory
+https://play-tv.kakao.com/embed/player/cliplink/446318653?service=daum_tistory
 <br>
 <h2 ><b> ⚙️ 개발 환경 </b></h2>
 <p data-ke-size="size16"> Front</p>
