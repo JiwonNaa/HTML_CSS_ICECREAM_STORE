@@ -25,12 +25,12 @@ src: url('../resources/font/감탄로드바탕체.ttf') format('truetype');
 
 #introduce{
   font-family:'감탄로드바탕체';
-  font-size: 100%;
+  font-size: 150%
 }
 
 .a{
   font-family: '감탄로드바탕체';
-  font-size: 80%;
+  font-size: 100%;
 }
 
 #b{
@@ -45,7 +45,7 @@ src: url('../resources/font/감탄로드바탕체.ttf') format('truetype');
   color: rgb(192, 255, 234);
   border-radius: 5px;
   border: none;
-  font-size: 150%;
+  font-size: 200%;
   font-family: '감탄로드바탕체';
 }
 

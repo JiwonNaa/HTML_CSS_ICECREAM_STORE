@@ -35,6 +35,27 @@ src: url('../resources/font/감탄로드바탕체.ttf') format('truetype');
 }
 
 #memberAll{
-  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
 }
+
+#member{
+  width: 95%;
+  height: 150%;
+  border: 5px dashed rgb(255, 101, 171);
+  border-radius: 20px;
+
+  display: grid;
+
+  place-items: center center;
+
+  align-content: center;
+
+  text-align: center;
+}
+#membertext{
+  font-size: 200%;
+}
+
 
